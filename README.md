@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Poorna_1803" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Poorna_1803" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Poorna Patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Poorna Patel" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/poorna-patel-9b010b209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Poorna Patel" height="30" width="40" /></a>
 <a href="https://instagram.com/Poorna_1803" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Poorna_1803" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/patel_1803" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="patel_1803" height="30" width="40" /></a>
 </p>
