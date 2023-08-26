@@ -20,7 +20,6 @@
 
 - ⚡ Fun fact **Suffering from Adulthood😂**
 </p>
-<img align="right" alt="coding" width="200" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
