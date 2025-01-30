@@ -1,22 +1,22 @@
 ![logo](https://github.com/PoornaPatel1803/PoornaPatel1803/blob/main/POORNA.png)
 <h1 align="center">Hi 👋, I'm Poorna Patel</h1>
 
-<h3 align="center">A passionate Information Technology student from India</h3>
+<h3 align="center">A passionate Result oriented Front-End Developer</h3>
 
 <img align="center" alt="coding" width="200" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <p align="left"> <a href="https://twitter.com/Poorna_1803" target="blank"><img src="https://img.shields.io/twitter/follow/Poorna_1803?logo=twitter&style=for-the-badge" alt="Poorna_1803" /></a> </p>
 <p>
   
-- 🌱 I’m currently learning **Flutter, Game Development, Java**
+- 🌱 I’m currently learning **Tablue, PowerBI**
 
-- 👯 I’m looking to collaborate on **Game development in java**
+- 👯 I’m looking to collaborate on **Data Analytics**
 
 - 🤝 I’m looking for help with **Unity game Development**
 
-- 💬 Ask me about **WordPress, Figma**
+- 💬 Ask me about **WordPress, Figma, React, JavaScript**
 
-- 📫 How to reach me **patelpoorna1803@gmail.com**
+- 📫 How to reach me **patelpoorna.work@gmail.com**
 
 - ⚡ Fun fact **Suffering from Adulthood😂**
 </p>
