@@ -1,4 +1,4 @@
-![logo](https://github.com/PoornaPatel1803/PoornaPatel1803/blob/main/POORNA.png)
+![logo](https://github.com/PoornaPatel1803/PoornaPatel1803/blob/main/1702835193508.jpeg)
 <h1 align="center">Hi 👋, I'm Poorna Patel</h1>
 
 <h3 align="center">A passionate Result oriented Front-End Developer</h3>
